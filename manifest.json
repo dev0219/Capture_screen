@@ -1,0 +1,13 @@
+﻿{
+  "name": "Chapter 68 (MV3) desktopCapture",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [
+    "desktopCapture",
+    "tabs",
+    "downloads"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
